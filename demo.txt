@@ -1,1 +1,4 @@
 Dit is regel 1 9:50 16 december
+om een file toe tevoegen gebruik je
+
+git add demo.txt
